@@ -1,0 +1,36 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "something",
+      "description": "Nothing",
+      "assigne": "John",
+      "status": "Pending",
+      "priority": 2
+    },
+    {
+      "id": 2,
+      "title": "Sort",
+      "description": "to sort",
+      "assigne": "John",
+      "status": "Pending",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "title": "Chakra",
+      "description": "Ui design",
+      "assigne": "Jane",
+      "status": "In Progress",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "title": "Priority",
+      "description": "Asc",
+      "assigne": "Joe",
+      "status": "Pending",
+      "priority": 3
+    }
+  ]
+}
